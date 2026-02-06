@@ -1,0 +1,3 @@
+statefulset:
+  imageURL: joindevops/mysql
+  imageVersion: v1
